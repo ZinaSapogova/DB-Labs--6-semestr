@@ -1,0 +1,15 @@
+D:\Univer\sem6\database\лабы\laba3\laba3\bin\Debug\laba3.dll
+D:\Univer\sem6\database\лабы\laba3\laba3\bin\Debug\laba3.pdb
+D:\Univer\sem6\database\лабы\laba3\laba3\obj\Debug\laba3.dll
+D:\Univer\sem6\database\лабы\laba3\laba3\obj\Debug\laba3.pdb
+D:\Univer\sem6\database\labs\laba3\laba3\bin\Debug\laba3.dll
+D:\Univer\sem6\database\labs\laba3\laba3\bin\Debug\laba3.pdb
+D:\Univer\sem6\database\labs\laba3\laba3\obj\Debug\laba3.csprojAssemblyReference.cache
+D:\Univer\sem6\database\labs\laba3\laba3\obj\Debug\laba3.dll
+D:\Univer\sem6\database\labs\laba3\laba3\obj\Debug\laba3.pdb
+D:\Учёба\3 курс, 6 семестр\БД\laba3\laba3\bin\Debug\laba3.dll
+D:\Учёба\3 курс, 6 семестр\БД\laba3\laba3\bin\Debug\laba3.pdb
+D:\Учёба\3 курс, 6 семестр\БД\laba3\laba3\obj\Debug\laba3.csprojAssemblyReference.cache
+D:\Учёба\3 курс, 6 семестр\БД\laba3\laba3\obj\Debug\laba3.csproj.CoreCompileInputs.cache
+D:\Учёба\3 курс, 6 семестр\БД\laba3\laba3\obj\Debug\laba3.dll
+D:\Учёба\3 курс, 6 семестр\БД\laba3\laba3\obj\Debug\laba3.pdb
